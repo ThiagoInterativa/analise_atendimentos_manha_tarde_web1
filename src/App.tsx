@@ -544,14 +544,6 @@ export default function App() {
         onSave={handleSaveCredentials}
         onTestConnection={handleTestConnection}
       />
-
-      {/* Footer */}
-      <footer className="bg-slate-950 border-t border-slate-900 py-6 text-center text-xs text-slate-500">
-        <p>PABX Analytics & Planejador de Escala • Interativa Net • Sistema PABX Evence</p>
-        <p className="text-[11px] text-slate-600 mt-1">
-          Cálculos de Manhã (08h15-13h00) e Tarde (13h00-21h00) integrados aos relatórios do CDR.
-        </p>
-      </footer>
     </div>
   );
 }
