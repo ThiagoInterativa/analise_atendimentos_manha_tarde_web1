@@ -316,9 +316,6 @@ export const FilterBar: React.FC<FilterBarProps> = ({
               <RefreshCw className={`w-4 h-4 ${isSyncing ? 'animate-spin' : ''}`} />
               <span>{isSyncing ? 'Carregando Mês Completo...' : '🔍 Consultar Período no PABX'}</span>
             </button>
-            <span className="text-[11px] text-slate-400 hidden sm:inline">
-              Puxa todas as páginas do CDR para o intervalo de datas selecionado (incluindo mês completo).
-            </span>
           </div>
 
           {/* Mode label */}

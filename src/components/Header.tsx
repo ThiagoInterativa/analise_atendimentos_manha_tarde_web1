@@ -39,7 +39,7 @@ export const Header: React.FC<HeaderProps> = ({
                 </h1>
               </div>
               <p className="text-xs text-slate-400">
-                Interativa Net • Análise de tráfego por hora e dimensionamento de turnos
+                Analise de ligações
               </p>
             </div>
           </div>
