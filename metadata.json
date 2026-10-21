@@ -1,0 +1,6 @@
+{
+  "name": "PABX Analytics & Escala de Atendimento",
+  "description": "Dashboard de chamadas PABX Evence com análise por faixas horárias, métricas de TMA, ranking e otimização de escala de equipe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
